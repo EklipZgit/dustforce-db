@@ -10,7 +10,7 @@
 
 static bool interlocked = true;    // change this to fix the problem
 
-const int maxCount = 100000000;
+const int maxCount = 10000000;
 static LONG value = 0;              // under Windows Server 2003 you
                                     // could use LONGLONG here
 
