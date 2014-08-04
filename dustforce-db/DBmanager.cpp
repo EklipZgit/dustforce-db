@@ -4,12 +4,6 @@
 // All rights reserved
 
 #include "stdafx.h"
-#include <stdio.h>
-#include <windows.h>          // for HANDLE
-#include <process.h>          // for _beginthread()
-#include <json_spirit/json_spirit.h>
-#include <json_spirit/json_spirit_reader_template.h>
-#include <json_spirit/json_spirit_writer_template.h> 
 
 static bool interlocked = true;    // change this to fix the problem
 
