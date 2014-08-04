@@ -7,10 +7,13 @@
 #include <stdio.h>
 #include <windows.h>          // for HANDLE
 #include <process.h>          // for _beginthread()
+#include <json_spirit/json_spirit.h>
+#include <json_spirit/json_spirit_reader_template.h>
+#include <json_spirit/json_spirit_writer_template.h> 
 
 static bool interlocked = true;    // change this to fix the problem
 
-const int maxCount = 10000000;
+const int maxCount = 100000000;
 static LONG value = 0;              // under Windows Server 2003 you
                                     // could use LONGLONG here
 

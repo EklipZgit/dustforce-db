@@ -1,0 +1,21 @@
+Player page
+	Graph of sum of all PB times over time
+	All PB's
+	GLaDOS rank & graph over time
+	Dustworth rank & graph over time
+	Recent improvements list (activity graph?)
+
+Overall Dustforce page
+	Graph of sum of all WR times over time
+	Graph of sum of all #10 times over time
+	Graph of average of all t10 times over time
+	Each maps WR
+	All recent top10 activity list (activity graph?)
+	
+Map page
+	Graph of average rank over time
+	Graph of WR over time
+	Graph of #10 over time
+	Recent top10 activity list
+	Maybe some character usage stats displayed by ranking through top 500 or something would be cool.
+

@@ -1,11 +1,5 @@
 Debug/
-
 ipch/
-
-./dustforce-db.opensdf
-
-./*.sdf
-
-./*.suo
-
-./dustforce-db.sdf
+*.opensdf
+*.sdf
+*.suo
